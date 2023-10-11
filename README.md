@@ -30,3 +30,5 @@ Este repositorio contiene un conjunto de datos que registra accidentes de avione
 
 El KPI principal que estamos evaluando se refiere a la tasa de fatalidad de la tripulación. El objetivo es disminuir esta tasa en un 10% en los últimos 10 años en comparación con la década anterior. La fórmula para calcular la tasa de fatalidad de la tripulación es:
 
+* (Total de tripulantes fallecidos en el período de tiempo / Total de accidentes en el período de tiempo)
+
