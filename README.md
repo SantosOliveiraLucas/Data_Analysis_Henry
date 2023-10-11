@@ -1,5 +1,7 @@
 # PROYECTO INDIVIDUAL DATA ANALITYCS
-
+<p align="center">
+  <img src="/data/portada.webp">
+</p>
 # Proyecto de Análisis de Accidentes Aéreos
 
 ## Introducción
