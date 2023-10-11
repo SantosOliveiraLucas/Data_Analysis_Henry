@@ -2,7 +2,6 @@
 <p align="center">
   <img src="/data/portada.webp">
 </p>
-# Proyecto de Análisis de Accidentes Aéreos
 
 ## Introducción
 
@@ -25,9 +24,7 @@ En cada punto de datos, en cada gráfico, se encuentra la promesa de un futuro m
 ## Datos
 Este repositorio contiene un conjunto de datos que registra accidentes de aviones desde 1908 hasta 2021. El objetivo principal del proyecto, como parte de mi trabajo integrador para la carrera de Data Science en Henry, es analizar estos datos para evaluar la seguridad en la industria de la aviación. A continuación, se detalla el contenido de cada archivo/carpeta en este repositorio:
 
-- `data.csv`: Este archivo CSV contiene los datos de los accidentes de aviones, incluyendo detalles como la fecha, ubicación, aerolínea, número de fallecidos y más.
-
-- `dashboard`: Esta carpeta contiene los archivos y recursos relacionados con la creación de dashboards para visualizar los datos de los accidentes de aviones.
+- `EDA.ipynb`: Este archivo contiene el analisis exploratorio (de manera detallada) acerca del dataset proporcionado para la realización del proyecto. 
 
 ## Análisis de KPI - Tasa de Fatalidad de la Tripulación
 
