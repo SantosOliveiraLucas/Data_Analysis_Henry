@@ -22,7 +22,7 @@ Este proyecto es una ventana al pasado, un análisis minucioso de incidentes que
 En cada punto de datos, en cada gráfico, se encuentra la promesa de un futuro más seguro en los cielos. A través de esta iniciativa, la OACI se embarca en un viaje para honrar el pasado, aprender del pasado y, en última instancia, mejorar el futuro de la aviación en todo el mundo.
 
 ## Datos
-Este repositorio contiene un conjunto de datos que registra accidentes de aviones desde 1908 hasta 2021. El objetivo principal del proyecto, como parte de mi trabajo integrador para la carrera de Data Science en Henry, es analizar estos datos para evaluar la seguridad en la industria de la aviación. A continuación, se detalla el contenido de cada archivo/carpeta en este repositorio:
+Este repositorio contiene un conjunto de datos que registra accidentes de aviones desde 1908 hasta 2021. El objetivo principal del proyecto, como parte de mi trabajo integrador para la carrera de Data Science en Henry, es analizar estos datos para evaluar y sacar conclusiones acerca de los KPIs planteados. A continuación, se detalla el contenido de cada archivo/carpeta en este repositorio:
 
 - `EDA.ipynb`: Este archivo contiene el analisis exploratorio (de manera detallada) acerca del dataset proporcionado para la realización del proyecto. 
 
